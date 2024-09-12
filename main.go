@@ -18,8 +18,8 @@ import (
 )
 
 const (
-    telegramToken = "7523159195:AAH6cXHQsvbEuySK8Ip6zW8x3_6-aWLwYqU" // Token bot Telegram Anda
-    chatID        = int64(1282438677)                                // ID chat Telegram Anda dalam format int64
+    telegramToken = "token" // Token bot Telegram Anda
+    chatID        = int64(id)                                // ID chat Telegram Anda dalam format int64
 )
 
 // Fungsi untuk mengirim pesan ke Telegram
